@@ -21,4 +21,5 @@ The design is clean and minimalistic, featuring a coffee beans background and a 
 - Coffee and dessert lists with prices
 - Footer with a personal website link and dynamic current year
 
-📸 Preview
+## 📸 Preview
+![Preview](./assets/cafeMenu_preview.png)
