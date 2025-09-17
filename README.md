@@ -22,4 +22,4 @@ The design is clean and minimalistic, featuring a coffee beans background and a 
 - Footer with a personal website link and dynamic current year
 
 ## 📸 Preview
-![Preview](./assets/cafeMenu_preview.png)
+![Preview](./assets/cafeMenu_Preview.png)
